@@ -130,6 +130,6 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 DEFAULT_FROM_EMAIL = 'rgonzalez@sdgku.edu'
 EMAIL_HOST = 'smtp.sendgrid.net'
 EMAIL_HOST_USER = 'apikey'
-EMAIL_HOST_PASSWORD = ''
+EMAIL_HOST_PASSWORD = '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'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
