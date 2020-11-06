@@ -1,5 +1,9 @@
-.vscode/
-accounts/__pycache__/
+.env
+__pycache__/
+*.pyc
 config/__pycache__/
 news/
-.vscode/
+.vs-code/*
+Db.sqlite3
+.DS_Store
+.vscode/*
